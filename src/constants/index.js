@@ -26,32 +26,18 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "AI-AGENT",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
-  },
-  {
-    title: "Task Management App",
-    image: project2,
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "1. Developed an intelligent AI agent that generates and executes JavaScript code in real-time to solve user queries and programming challenges 👨🏻‍💻 2. Engineered a high- performance backend using Node.js, Express, and Genezio to seamlessly process user requests and execute AI - generated code💻",
+    technologies: ["HTML", "CSS", "React", "Node.js", "TypeScript", "Express", "zod"],
   },
   {
     title: "Portfolio Website",
-    image: project3,
+    image: project2,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["HTML", "CSS", "React", "Tailwind"],
   },
 ];
 
