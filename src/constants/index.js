@@ -1,16 +1,24 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 3+ years of hands-on experience, I have honed my skills in front-end technology like React , as well as back-end technologies like Node.js, ExpressJs and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 3+ years of professional experience, I have worked with a variety of technologies, including React, Node.js, ExpressJs and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
     year: "2021 - 2022",
     role: "Application Development Associate",
     company: "Accenture",
-    description: `Developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    description: `• Worked on creating and maintaining reusable Ul components.\n
+            • Implemented Spinner Loading, Carousel, and Accordion in the Ul to enhance user experience.\n
+            • Maintained State Management using Context API.\n
+            • Developed a dynamic modal with form validation and comprehensive error handling to enhance user interaction
+              and ensure data integrity.\n
+            • Implemented accessibility best practices across the Ul to improve user experience and ensure compliance with
+              accessibility standards.\n
+            • Design and integrated a product summary flyout feature, allowing users to quickly access key product information,
+              leading to a more seamless and intuitive user experience.`,
     technologies: ["HTML", "CSS", "Javascript", "React.js", "mongoDB"],
   },
   {
